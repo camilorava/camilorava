@@ -25,5 +25,4 @@ And more...
 
 ## Contact me:
 
-</br>
 [![Email](https://img.shields.io/badge/camilorava@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:camilorava@gmail.com)
