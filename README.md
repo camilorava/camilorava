@@ -1,7 +1,7 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/camilorava/camilorava/master/avatarProgramador.jpg) Hello, my name is Camilo Ramirez
+# (https://raw.githubusercontent.com/camilorava/camilorava/master/avatarProgramador.jpg) Hello, my name is Camilo Ramirez
 ### Software Developer Back-End (Engineer of Systems)
 
-![https://github.com/camilorava](https://raw.githubusercontent.com/camilorava/camilorava/master/desarrollador.jpg)
+![https://github.com/camilorava](https://raw.githubusercontent.com/camilorava/camilorava/master/Desarrollador.jpg)
 
 I'm a professional software developer for more than ten years.
 
