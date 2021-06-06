@@ -1,9 +1,16 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/camilorava/camilorava/master/avatarProgramador.jpg) Hello, my name is Camilo Ramirez
-### Software Developer Back-End (Engineer of Systems)
+# ![https://camilorava.com](https://raw.githubusercontent.com/camilorava/camilorava/master/avatarProgramador.jpg) Hello, my name is Camilo Ramirez
+### Software Developer (Engineer of Systems)
 
 ![https://github.com/camilorava](https://raw.githubusercontent.com/camilorava/camilorava/master/Desarrollador.jpg)
 
 I'm a professional software developer for more than four years.
+
+FullStack developer of the Chatbot App in charge of customer service
+B2C of Movistar Colombia, this bot is deployed in the Infrastructure of the
+Azure public cloud on an AKS Cluster (Kubernetes) to provide High
+Availability and Scalability. The bot is integrated with multiple WhatsApp APIs,
+Facebook Messenger and Web Channels. The Bot Stack (Spring Boot and NodeJs)
+It is oriented in a microservices architecture.
 
 ## Skills:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
